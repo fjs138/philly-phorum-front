@@ -1,0 +1,13 @@
+# the http endpoint for the prisma api
+#endpoint: ''
+endpoint: https://us1.prisma.sh/frank-santaguida-096018/phillyphorum/dev
+
+# points to to the file that contains your datamodel
+datamodel: datamodel.prisma
+
+# specifies language
+generate:
+  # specifies in which language the prisma client should be generated
+  - generator: javascript-client
+    # specifies location for the generated Prisma client
+    output: ../src/generated/prisma-client
