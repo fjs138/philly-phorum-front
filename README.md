@@ -4,8 +4,11 @@ I will be updating this description, as well as the code, over the coming days.
 
 ## In progress
 authentication,
+
 live, persistent hosting and data storage,
+
 security fixes,
+
 branding changes
 
 
