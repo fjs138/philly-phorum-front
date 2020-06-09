@@ -2,6 +2,10 @@
 
 I will be updating this description, as well as the code, over the coming days.
 
+## In progress
+authentication, live persistent hosting data storage, security fixes
+
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
