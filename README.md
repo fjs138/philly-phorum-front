@@ -1,4 +1,4 @@
-## Under heavy development, estimated initial release mid June 2020.
+## Under initial development, estimated initial release June 11th 2020.
 
 I will be updating this description, as well as the code, over the coming days.
 
