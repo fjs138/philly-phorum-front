@@ -1,8 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Under heavy development, estimated initial release mid June 2020.
 
-## Available Scripts
-
-In the project directory, you can run:
+I will be updating this description, as well as the code, over the coming days.
 
 ### `npm start`
 
