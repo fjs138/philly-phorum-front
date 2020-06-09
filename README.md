@@ -14,7 +14,7 @@ security fixes,
 
 branding changes
 
-![GraphQL Playground screenshot](https://github.com/fjs138/philly-phorum-front/blob/master/gpl-playground.png)
+![GraphQL Playground screenshot](https://github.com/fjs138/philly-phorum-front/blob/master/gql-playground.png)
 
 
 ### `npm start`
