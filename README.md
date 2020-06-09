@@ -2,6 +2,9 @@
 
 I will be updating this description, as well as the code, over the coming days.
 
+![Navbar early design](https://github.com/fjs138/philly-phorum-front/blob/master/navbar.png)
+
+
 ## In progress
 authentication,
 
@@ -10,6 +13,8 @@ live, persistent hosting and data storage,
 security fixes,
 
 branding changes
+
+![GraphQL Playground screenshot](https://github.com/fjs138/philly-phorum-front/blob/master/gpl-playground.png)
 
 
 ### `npm start`
