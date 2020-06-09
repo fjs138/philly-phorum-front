@@ -1,3 +1,20 @@
+## The Goal
+Create an online, social media and news focused site for Philadelphia, by Philadelphia, with no corporate/political ties or biases.
+
+## Requirements
+clean, minimal interface,
+
+user accounts,
+
+CRUD functionality,
+
+up and down voting,
+
+more to come..., will update soonTM.
+
+## Tech Stack
+Node, React, GraphQL, Apollo
+
 ## Under initial development, estimated release June 11th 2020.
 
 I will be updating this description, as well as the code, over the coming days.
