@@ -11,7 +11,7 @@ philly-phorum-front is the react-apollo front-end
 
 philly-phorum-back is the node local server back-end
 
-Proof of this is that the backend is also developed and deployed live, with persistent storage and user authentication through the awesome [Prisma!](https://www.prisma.io/) service. Details to come...
+Persistent storage and user authentication through the awesome [Prisma!](https://www.prisma.io/) service. Details to come...
 
 ## In progress
 authentication,
