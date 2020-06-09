@@ -37,6 +37,10 @@ input {
   background-color: #ff6600;
 }
 
+.green {
+  background-color: #004953;
+}
+
 .background-gray {
   background-color: rgb(246,246,239);
 }
