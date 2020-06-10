@@ -13,7 +13,7 @@ up and down voting,
 more to come..., will update soonTM.
 
 ## Tech Stack
-Node, React, GraphQL, Apollo
+Node, React, GraphQL, Apollo, Tachyons
 
 ## Under initial development, estimated release June 11th 2020.
 
