@@ -13,7 +13,29 @@ up and down voting,
 more to come..., will update soonTM.
 
 ## Tech Stack
-Node, React, GraphQL, Apollo, Tachyons
+Node, React, GraphQL, Apollo, Tachyons, Prisma
+
+Node: asynchronous event-driven JavaScript runtime
+
+React: A JavaScript library for building user interfaces
+
+GraphQL: a query language for APIs and a runtime for fulfilling those queries with your existing data. 
+
+Apollo: the industry-standard GraphQL implementation, providing the data graph layer that connects modern apps to the cloud.
+        
+Tachyons: Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible.
+
+Prisma: an open source database toolkit. It replaces traditional ORMs and makes database access easy with an auto-generated and type-safe query builder for Node.js and TypeScript.
+
+
+## Login
+![Login](/login.gif)
+## Search Posts
+![Search Posts](/search.gif)
+## Submit Post
+![Submit Post](/submit.gif)
+## Top Posts
+![Top Posts](/top.gif)
 
 ## Under initial development, estimated release June 11th 2020.
 

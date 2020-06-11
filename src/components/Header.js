@@ -16,10 +16,17 @@ class Header extends Component {
           <Link to="/" className="ml1 no-underline white">
             new
           </Link>
+          <Link to="/top" className="ml1 no-underline white">
+            top
+          </Link>
+          <div className="ml1">|</div>
+          <Link to="/search" className="ml1 no-underline white">
+            search
+          </Link>
           {authToken && ( // if the authToken is not available, the submit button won't be rendered
             <div className="flex">
               <div className="ml1">|</div>
-              <Link to="/create" className="ml1 no-underline black">
+              <Link to="/create" className="ml1 no-underline white">
                 submit
               </Link>
             </div>
@@ -28,7 +35,7 @@ class Header extends Component {
         <div className="flex flex-fixed">
           {authToken ? (
             <div
-              className="ml1 pointer black"
+              className="ml1 pointer white"
               onClick={() => {
                 localStorage.removeItem(AUTH_TOKEN);
                 this.props.history.push(`/`);
