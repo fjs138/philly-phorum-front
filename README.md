@@ -36,7 +36,7 @@ voting on posts,
 | philly-phorum-back/prisma		 			| Prisma configuration    |
 
 
-## The actions that users can perform are mapped to routes as follows:
+## Routes
 | path       |component|
 | :------------------ |:-------------------         									  |
 |/create |    CreateLink  |
@@ -66,14 +66,6 @@ philly-phorum-back is the node local server back-end
 
 Persistent storage and user authentication through the awesome [Prisma!](https://www.prisma.io/) service. Details to come...
 
-## In progress
-authentication,
-
-live, persistent hosting and data storage,
-
-security fixes,
-
-branding changes
 
 ![GraphQL Playground screenshot](https://github.com/fjs138/philly-phorum-front/blob/master/gql-playground.png)
 
