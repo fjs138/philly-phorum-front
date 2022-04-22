@@ -1,9 +1,11 @@
 ## Philly Phorum
+Social news aggregator powered by React, GraphQL, Apollo
+
 
 ## The Goal
 Create an online, social media and news focused site for Philadelphia, by Philadelphia, with no corporate/political ties or biases.
 
-## Technology Stack:
+## Technology Stack
 
 
 | Technology    	| Use           	  | Description     										  |
