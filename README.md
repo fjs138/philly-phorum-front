@@ -33,10 +33,10 @@ voting on posts,
 
 | File/Folder    	| Purpose           	  |
 | :------------------|:-------------------|
-| / | frontend |
-| src/components/	 			| React components     |
 | philly-phorum-back/		 			| backend|
-| philly-phorum-back/prisma		 			| Prisma configuration    |
+| philly-phorum-back/prisma		 			| backend Prisma configuration    |
+| / | frontend |
+| src/components/	 			| frontend React components     |
 
 
 ## Routes
