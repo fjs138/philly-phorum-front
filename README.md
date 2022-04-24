@@ -78,11 +78,6 @@ Persistent storage and user authentication through the awesome [Prisma](https://
 ![GraphQL Playground screenshot](https://github.com/fjs138/philly-phorum-front/blob/master/gql-playground.png)
 
 
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
 ## License
 MIT License
 
