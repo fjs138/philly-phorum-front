@@ -3,7 +3,11 @@ Social news aggregator powered by React, GraphQL, Apollo
 
 
 ## The Goal
-Create an online, social media and news focused site for Philadelphia, by Philadelphia, with no corporate/political ties or biases.
+Create an online, social media and news focused site for Philadelphia, by Philadelphia.
+Free of:  
+* corporate/political biases
+* advertising/monetization
+* gamification
 
 ## Technology Stack
 
