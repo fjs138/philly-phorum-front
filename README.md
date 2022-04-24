@@ -3,7 +3,8 @@ Social news aggregator powered by React, GraphQL, Apollo
 
 
 ## The Goal
-Create an online, social media and news focused site for Philadelphia, by Philadelphia.
+Create a social media and news forum for Philadelphia, by Philadelphia.
+
 Free of:  
 * corporate/political biases
 * advertising/monetization
@@ -24,13 +25,13 @@ Free of:
 
 ## Project Specifications
 
-clean, minimal interface,
+* minimal user experience, e.g. craigslist
 
-user accounts,
+* persistent user accounts
 
-CRUD functionality,
+* CRUD functionality
 
-voting on posts,
+* up/down voting on posts
 
 ## Anatomy of Project
 
