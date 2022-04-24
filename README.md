@@ -1,9 +1,9 @@
 ## Philly Phorum
-Social news aggregator powered by React, GraphQL, Apollo
+Social news forum powered by React, GraphQL, Apollo
 
 
 ## The Goal
-Create a social media and news forum for Philadelphia, by Philadelphia.
+Create a social news forum for Philadelphia, by Philadelphia.
 
 Free of:  
 * corporate/political biases
