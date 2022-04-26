@@ -1,5 +1,5 @@
 ## Philly Phorum
-Social news website built with React, GraphQL, Apollo
+Social news website, built with React, GraphQL, Apollo
 
 ## The Goal
 Create a social news forum for Philadelphia, by Philadelphia.
